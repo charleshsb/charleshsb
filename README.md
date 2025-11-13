@@ -5,7 +5,7 @@ Previous career in finance, followed by the Wagon Bootcamp.<br>I'm now working f
 [![Resume](https://img.shields.io/badge/Resume-blue)](https://www.stasboyeldieu.com/images/cv/cv.pdf)
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charleshenry-stasboyeldieu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@charleshsb) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18666702) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/charlehSB) [![Web](https://img.shields.io/badge/WEB-black)](https://www.stasboyeldieu.com/)
 
 
