@@ -1,5 +1,7 @@
 # 💫 About Me:
 Previous career in finance, followed by the Wagon Bootcamp.<br>I'm now working fulltime as a full-stack software engineer.<br>Specialized in Ruby / RoR technologies
+
+
 [![Resume](https://img.shields.io/badge/Resume-blue)](https://www.stasboyeldieu.com/images/cv/cv.pdf)
 
 
