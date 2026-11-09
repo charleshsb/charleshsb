@@ -19,7 +19,7 @@ Docker · Kubernetes · React
 ## Links
 
 [Portfolio](https://www.stasboyeldieu.com) ·
-[Resume](https://www.stasboyeldieu.com/images/cv/cv.pdf) ·
+[Resume](https://www.stasboyeldieu.com/images/cv/resume-stasboyeldieu.pdf) ·
 [LinkedIn](https://linkedin.com/in/charleshenry-stasboyeldieu) ·
 [Medium](https://medium.com/@charleshsb) ·
 [Stack Overflow](https://stackoverflow.com/users/18666702)
